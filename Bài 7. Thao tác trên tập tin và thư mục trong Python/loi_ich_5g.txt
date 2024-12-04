@@ -1,0 +1,5 @@
+1. Speed: 5G can offer download speeds up to 10 Gbps, which is 100 times faster than 4G.
+
+2. Latency: It has a latency of just 1 millisecond, making real-time communication and activities like online gaming and AR/VR much smoother.
+
+3. Capacity: 5G can support a million devices per square kilometer, paving the way for the Internet of Things (IoT).
